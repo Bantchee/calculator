@@ -29,10 +29,17 @@ main {
     background-color: grey;
     height: 30em;
     width: 25em;
-    padding: 4px;
+    padding: 2px;
     border-radius: 16px;
     display: flex;
     flex-direction: column;
+}
+
+.display {
+    background-color: rgba(0, 0, 0, 0.75);
+    height: 90%;
+    height: 15%;
+    border-radius: 16px;
 }
 
 .buttons {
