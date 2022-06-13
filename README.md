@@ -17,6 +17,11 @@ A browser calculator app.
     * arithmetic buttons
     * "equals" button
     * "clear" button
+    * "Delete" button 
+    * "Decimal" (.) button
+    * "Power" (Maybe)
+    * "(" (Maybe)
+    * ")" (Maybe)
 * UpdateDisplay Function
     * updates display when you click a button
     * store display value in JS variable (Array)
