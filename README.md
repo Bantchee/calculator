@@ -12,13 +12,13 @@ A browser calculator app.
     * takes an operator and 2 numbers, then calls an arithemtic function
 * GUI
     * created and styled with HTML, CSS, and JavaScript
-    * display
-    * digit buttons, 0 - 9
-    * arithmetic buttons
-    * "equals" button
-    * "clear" button
-    * "Delete" button 
-    * "Decimal" (.) button
+    * ✅ display
+    * ✅ digit buttons, 0 - 9
+    * ✅ arithmetic buttons (+, -, *, /)
+    * ✅ "equals" button
+    * ✅ "clear" button
+    * ✅ "Delete" button 
+    * ✅ "Decimal" (.) button
     * "Power" (Maybe)
     * "(" (Maybe)
     * ")" (Maybe)
