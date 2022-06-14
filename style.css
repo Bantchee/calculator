@@ -36,12 +36,8 @@ main {
     display: flex;
     flex-direction: row-reverse;
     align-items: center;
-}
-
-.display p {
     font-size: 40px;
-    margin: 0px;
-    padding: 8px;
+    padding-right: 8px;
 }
 
 .button-container {
@@ -78,6 +74,14 @@ main {
 
 .delete:hover {
     background-color: rgba(55, 144, 134, 1);
+}
+
+.top {
+    background-color: rgba(131, 131, 131, 0.7);
+}
+
+.top:hover {
+    background-color: rgb(131, 131, 131);
 }
 
 .addition {
