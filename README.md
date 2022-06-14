@@ -31,6 +31,8 @@ A browser calculator app.
 * Sound
     * Sound for Hovering over button
     * Sound for Clicking button
+* Keyboard Integration
+    * Only works for backspace, decimal, operator, and number keys
 
 ### Built With
 * HTML
