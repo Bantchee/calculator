@@ -17,6 +17,8 @@ A browser calculator app.
     * ✅ arithmetic buttons (+, -, *, /)
     * ✅ "equals" button
     * ✅ "clear" button
+        * "C" for clear display (Change to when number in display)
+        * "AC" for clear stored value (Change to when display is empty)
     * ✅ "Delete" button 
     * ✅ "Decimal" (.) button
     * "Power" (Maybe)
