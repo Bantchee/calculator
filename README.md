@@ -25,6 +25,9 @@ A browser calculator app.
 * UpdateDisplay Function
     * updates display when you click a button
     * store display value in JS variable (Array)
+* GitHub Link in footer
+    * GitHub Icon
+    * Leads to my profile
 
 ### Built With
 * HTML
