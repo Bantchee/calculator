@@ -28,6 +28,9 @@ A browser calculator app.
 * GitHub Link in footer
     * GitHub Icon
     * Leads to my profile
+* Sound
+    * Sound for Hovering over button
+    * Sound for Clicking button
 
 ### Built With
 * HTML
