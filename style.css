@@ -36,12 +36,8 @@ main {
     display: flex;
     flex-direction: row-reverse;
     align-items: center;
-}
-
-.display p {
     font-size: 40px;
-    margin: 0px;
-    padding: 8px;
+    margin-right: 8px;
 }
 
 .button-container {
