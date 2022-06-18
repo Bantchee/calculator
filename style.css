@@ -107,3 +107,11 @@ footer {
     margin-top: 0.5em;
     margin-bottom: 1em;
 }
+
+footer a {
+    color: white;
+}
+
+footer a:hover {
+    color: black;
+}
