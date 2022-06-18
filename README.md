@@ -3,14 +3,14 @@
 A browser calculator app.
 
 ### Features
-* Basic Arithmetic Functions
-    * addition
-    * subtraction
-    * multiplication
-    * division
-* Operate Function 
+* ✅ Basic Arithmetic Functions
+    * ✅ addition
+    * ✅ subtraction
+    * ✅ multiplication
+    * ✅ division
+* ✅ Operate Function 
     * takes an operator and 2 numbers, then calls an arithemtic function
-* GUI
+* ✅ GUI
     * created and styled with HTML, CSS, and JavaScript
     * ✅ display
     * ✅ digit buttons, 0 - 9
@@ -21,19 +21,14 @@ A browser calculator app.
         * "AC" for clear stored value (Change to when display is empty)
     * ✅ "Delete" button 
     * ✅ "Decimal" (.) button
-    * "Power" (Maybe)
-    * "(" (Maybe)
-    * ")" (Maybe)
-* UpdateDisplay Function
-    * updates display when you click a button
-    * store display value in JS variable (Array)
-* GitHub Link in footer
-    * GitHub Icon
-    * Leads to my profile
-* Sound
+* ✅ Update Display
+    * ✅ updates display when you click a button
+    * ✅ store display value in JS variable (Array)
+* ✅ GitHub Link in footer
+* Sound (Future Feature Maybe)
     * Sound for Hovering over button
     * Sound for Clicking button
-* Keyboard Integration
+* Keyboard Integration (Future Feature Maybe)
     * Only works for backspace, decimal, operator, and number keys
 
 ### Built With
